@@ -70,7 +70,7 @@
   <img src="Photo/1.jpg" alt="Зібрана" width="250" height="250" style="object-fit: cover; border-radius: 10px; margin: 5px;">
   
   <!-- Розібрана -->
-  <img src="Photo/2.jpg" alt="Розібрана" width="250" height="250" style="object-fit: cover; border-radius: 10px; margin: 5px;">
+  <img src="Photo/2.jpg" alt="Розібрана" width="auto" height="250" style="object-fit: cover; border-radius: 10px; margin: 5px;">
 </p>
 
 <br>
