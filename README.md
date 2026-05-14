@@ -13,4 +13,4 @@
   А — Асфіксійного \
   Н — Нещастя
 
-![Прогрес](https://geps.dev/progress/70)
+![Прогрес](https://geps.dev/progress/20)
