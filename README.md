@@ -80,7 +80,7 @@
 <summary>✨ <b>ПОДИВИТИСЯ ФІНАЛЬНИЙ РЕЗУЛЬТАТ</b></summary>
 <br>
 <p align="center">
-  <img src="Photo/4.jpg" alt="Фінальний результат" width="500" height="auto" style="border-radius: 15px; border: 2px solid #58a6ff;">
+  <img src="Photo/4.jpg" alt="Фінальний результат" width="500" height="300" style="border-radius: 15px; border: 2px solid #58a6ff;">
   <br>
   <i>"ВОЗДУХАН" у всій красі 🌀</i>
 </p>
