@@ -59,16 +59,24 @@
 > ![Прогрес](https://geps.dev/progress/2)
 
 # Галерея
+
 <details>
-<summary>Prewiev моделі</summary>
+<summary><b>Prewiev моделі (натисни, щоб розгорнути)</b></summary>
+<br>
 
-#### Зібрана:
-![Фото 1](Photo/1.jpg)
+<p align="center">
+  <!-- Зібрана -->
+  <img src="Photo/1.jpg" alt="Зібрана" width="250" height="250" style="object-fit: cover; border-radius: 10px; margin: 5px;">
+  
+  <!-- Розібрана -->
+  <img src="Photo/2.jpg" alt="Розібрана" width="250" height="250" style="object-fit: cover; border-radius: 10px; margin: 5px;">
+  
+  <!-- Фінальний результат -->
+  <img src="Photo/4.jpg" alt="Фінальний результат" width="250" height="250" style="object-fit: cover; border-radius: 10px; margin: 5px;">
+</p>
 
-#### Розібрана:
-![Фото 2](Photo/2.jpg)
-
-#### Фінальний результат:
-![Фото 3](Photo/3.jpg)
+<p align="center">
+  <sub><i>Зібрана &nbsp; | &nbsp; Розібрана &nbsp; | &nbsp; Фінальний результат</i></sub>
+</p>
 
 </details>
